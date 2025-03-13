@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Innova-Interactions-0.1.0";
 const contentToCache = [
     "Build/Innova-Build.loader.js",
-    "Build/Innova-Build.framework.js",
-    "Build/Innova-Build.data",
-    "Build/Innova-Build.wasm",
+    "Build/Innova-Build.framework.js.unityweb",
+    "Build/Innova-Build.data.unityweb",
+    "Build/Innova-Build.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
